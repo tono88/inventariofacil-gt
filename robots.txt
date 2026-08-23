@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://tono88.github.io/inventariofacil-gt/sitemap.xml
